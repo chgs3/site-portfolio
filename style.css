@@ -14,7 +14,7 @@ li {
 
 body {
     font-family: 'Source Code Pro', monospace;
-    background: url("../Img/904746.jpg") no-repeat top center;
+    background: url("904746.jpg") no-repeat top center;
     background-attachment: fixed;
     background-size: cover;
     display: grid;
