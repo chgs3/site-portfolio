@@ -15,7 +15,6 @@ li {
 body {
     font-family: 'Source Code Pro', monospace;
     background: url("904746.jpg") no-repeat top center;
-    background-attachment: fixed;
     background-size: cover;
     display: grid;
     align-items: center;
